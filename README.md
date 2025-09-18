@@ -1,7 +1,4 @@
 # Online Shopping Cart (E-Commerce Website)
-- Youtube Video for introduction, demo and setup for this Project: https://www.youtube.com/watch?v=RgQG0_orFpM
-<!-- - YouTube video for step by step local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw&t=8s -->
-<!-- Live site url: https://ellisonelectronics.herokuapp.com -->
 This is an E-Commerce Website build for selling of any electronics products online.
 
 ### About
@@ -95,9 +92,9 @@ Step 7: Tomcat Configurations:
 		<p align='center'>or</p>
 	- You can directly goto server tab, select the tomcat server and use the debug or run button to start the previously ran project
 
-Step 8: Check Running The Site At  [http://localhost:8080/shopping-cart/](http://localhost:8080/shopping-cart/)
+Step 8: Check Running The Site At  [http://localhost:8080/shopping-cart/](http://localhost:8080/Shopping-Cart/)
 
-Step 9:  [To Change the Port, if getting error like 'port already in use'] Open The Server Tab > Double Click On Tomcat Server > Ports > Change The Port Number For Http/1.1 To 8083 > Close And Save. Now Start and you can access the project on [http://localhost:8083/shopping-cart/](http://localhost:8083/shopping-cart/)
+Step 9:  [To Change the Port, if getting error like 'port already in use'] Open The Server Tab > Double Click On Tomcat Server > Ports > Change The Port Number For Http/1.1 To 8083 > Close And Save. Now Start and you can access the project on [http://localhost:8083/shopping-cart/](http://localhost:8083/Shopping-Cart/)
 
 Step 10: Default Username And Password For Admin Is "admin@gmail.com" And "admin"
 
